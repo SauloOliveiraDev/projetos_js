@@ -1,0 +1,35 @@
+body{
+    background: rgb(111, 149, 203);
+}
+header{
+    font: bold 18pt Arial;
+    color: white;
+    text-align: center;
+}
+section{
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    font: normal 13pt Arial;
+    margin: auto;
+    background: white;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 363);
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+select#flista{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 150px;
+}
+footer{
+    font: normal 10pt Arial;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    
+}
+
+div#resultado{
+    margin-top: 20px;
+}
